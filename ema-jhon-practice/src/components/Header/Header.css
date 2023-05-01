@@ -1,0 +1,17 @@
+.nav{
+    background: #1C2B35;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.menu{
+    display: flex;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    margin-right: 32px;
+}
